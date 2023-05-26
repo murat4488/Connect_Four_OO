@@ -1,5 +1,5 @@
-
-
+//I cannot finished this exercise myself. I looked "https://connect-four-oo-springboard.netlify.app/"
+// and I took helps my mentor.  
 class Game {
  constructor(p1, p2, height, width) {
    this.players = [p1, p2];
